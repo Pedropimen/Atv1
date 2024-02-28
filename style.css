@@ -1,0 +1,14 @@
+*{
+    color: white;
+   
+}
+header {  
+    background-color: black ;  
+    width: auto;
+}
+body{
+    background-color: black; 
+}
+img,h1{
+    display: inline-block;
+}
